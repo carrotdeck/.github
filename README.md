@@ -1,2 +1,3 @@
-# .github
-Github info
+# Carrot Deck
+
+Stub for the Carrotdeck
